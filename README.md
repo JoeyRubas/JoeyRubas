@@ -15,7 +15,7 @@ Outside of work, I run the [**APDA Tech Committee**](https://github.com/APDA-Tec
 - Django app used at debate tournaments across North America
 
 ### [NU-TAB Deployer](https://nu-tab.com) – Automatic GUI Deployer [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github&style=flat)](https://github.com/MIT-TAB/mittab-deploy)  
-- Web app tournament deploymer for MIT-TAB
+- Web app tournament deployer for MIT-TAB
 
 ### [APDA Standings (Black Rod)](https://results.apda.online) – National Rankings [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github&style=flat)](https://github.com/apda-tech-committee/black-rod)  
 - Ensures accurate league-wide rankings and standings
