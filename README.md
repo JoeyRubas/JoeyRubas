@@ -50,7 +50,7 @@ Outside of work, I run the [**APDA Tech Committee**](https://github.com/APDA-Tec
 
 ## 📊 GitHub Stats
 
-![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyRubas&show_icons=true&theme=default&count_private=true)
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyRubas&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyRubas&layout=compact&theme=default)
 
 ---
