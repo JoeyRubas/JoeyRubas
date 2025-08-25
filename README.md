@@ -9,7 +9,7 @@ Outside of work, I run the [**APDA Tech Committee**](https://github.com/APDA-Tec
 
 ---
 
-## 🏛 APDA Tech
+## 🏛 Projects I contribute to for APDA
 
 ### [MIT-TAB](https://nu-tab.com) – Tournament Tabulation [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github&style=flat)](https://github.com/MIT-TAB/mit-tab)  
 - Django app used at debate tournaments across North America
@@ -19,6 +19,9 @@ Outside of work, I run the [**APDA Tech Committee**](https://github.com/APDA-Tec
 
 ### [APDA Standings (Black Rod)](https://results.apda.online) – National Rankings [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github&style=flat)](https://github.com/apda-tech-committee/black-rod)  
 - Ensures accurate league-wide rankings and standings
+
+### [APDA Tech Committee Blog](tech.apda.online) – Technical Blog [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github&style=flat)](https://github.com/APDA-Tech-Committee/apda-committee-blog)
+- Blog page for communicating about our tech. Still in MVP phase.
 
 ---
 
